@@ -5,14 +5,14 @@
 * Detect the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity;
 * Check which algorithm has the best performance for classification of Body Mass Index;
 
-![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/heatmap_2.png)
+![](/heatmap_2.png)
 
 
 ### [Project 2: Wines Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
 * Created Extra Trees Classifier (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
 * Created a Web API in Python using Flask;
 
-![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/ConfusionMatrix.png)
+![](/ConfusionMatrix.png)
 
 
 ### [Project 3: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
