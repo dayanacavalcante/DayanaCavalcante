@@ -5,7 +5,7 @@
 * Detect the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity;
 * Check which algorithm has the best performance for classification of Body Mass Index;
 
-![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/heatmap.png)
+![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/heatmap_2.png)
 
 
 ### [Project 2: Wines Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
