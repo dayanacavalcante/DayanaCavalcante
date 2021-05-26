@@ -9,7 +9,7 @@
 
 
 ### [Project 2: Wines Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
-* Created Extra Trees Classifier (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
+* Created Extra Trees Classifier Model (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
 * Created a Web API in Python using Flask;
 
 ![](/ConfusionMatrix.png)
