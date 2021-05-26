@@ -10,3 +10,9 @@
 * Created Extra Trees Classifier (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
 * Created a Web API in Python using Flask;
 
+
+### [Project 3: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
+* Created an anti-spam filter to classify emails in spam or non-spam with the Naive Bayes algorithm (Accuracy = 90%);
+* A Pipeline was used with the following steps: CountVectorizer, TfidfTransformer and MultinomialNB;
+
+
