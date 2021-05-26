@@ -19,4 +19,10 @@
 * Created an anti-spam filter to classify emails in spam or non-spam with the Naive Bayes algorithm (Accuracy = 90%);
 * A Pipeline was used with the following steps: CountVectorizer, TfidfTransformer and MultinomialNB;
 
-
+```
+pipeline = Pipeline([
+    ('bow', CountVectorizer(analyzer=ProcessText)),
+    ('tfidf', TfidfTransformer()),
+    ('classifier', MultinomialNB())
+])
+```
