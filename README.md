@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 ## [Project 1: Body Mass Index](https://github.com/dayanacavalcante/Obesity-Estimate)
 * Created a Linear Regression Model (MAE = 0.38) as an alternative to the formula that is used today, BMI = kg/m2, where kg is a person's weight in kilograms and m2 is their height in metres squared;
