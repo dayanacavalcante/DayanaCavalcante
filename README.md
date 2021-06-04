@@ -16,7 +16,7 @@
 
 
 ## [Project 3: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
-* Created a CNN using Keras + Tensorflow (Accuracy = 50%) to classify MRI images;
+* Created a CNN using Keras + Tensorflow to classify MRI images;
 
 ```
 Model: "sequential_1"
