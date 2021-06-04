@@ -15,7 +15,42 @@
 ![](/images/ConfusionMatrix.png)
 
 
-## [Project 3: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
+## [Project 3: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
+* Created a CNN using Keras + Tensorflow (Accuracy = 50%) to classify MRI images;
+
+```
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d_2 (Conv2D)            (None, 99, 99, 64)        832       
+_________________________________________________________________
+max_pooling2d_2 (MaxPooling2 (None, 49, 49, 64)        0         
+_________________________________________________________________
+dropout_3 (Dropout)          (None, 49, 49, 64)        0         
+_________________________________________________________________
+conv2d_3 (Conv2D)            (None, 48, 48, 128)       32896     
+_________________________________________________________________
+max_pooling2d_3 (MaxPooling2 (None, 24, 24, 128)       0         
+_________________________________________________________________
+dropout_4 (Dropout)          (None, 24, 24, 128)       0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 73728)             0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 256)               18874624  
+_________________________________________________________________
+dropout_5 (Dropout)          (None, 256)               0         
+_________________________________________________________________
+dense_3 (Dense)              (None, 4)                 1028      
+=================================================================
+Total params: 18,909,380
+Trainable params: 18,909,380
+Non-trainable params: 0
+_________________________________________________________________
+```
+
+
+## [Project 4: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
 * Created an anti-spam filter to classify emails in spam or non-spam with the Naive Bayes algorithm (Accuracy = 90%), using the NLTK library.
 
 ```
@@ -26,7 +61,8 @@ pipeline = Pipeline([
 ])
 ```
 
-## [Project 4: Covid-19 Rio de Janeiro, Brazil](https://github.com/dayanacavalcante/Covid-19-RJ-Brazil-ARIMA)
+
+## [Project 5: Covid-19 Rio de Janeiro, Brazil](https://github.com/dayanacavalcante/Covid-19-RJ-Brazil-ARIMA)
 * Applied stationary transformations and ARIMA model.
 
 ![](/images/TestStationarity_1.png)
