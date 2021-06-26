@@ -2,7 +2,7 @@
 
 
 ## [Project 1: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
-* Created a CNN using Keras + Tensorflow to classify MRI images;
+* Created a CNN using Keras + Tensorflow to classify MRI;
 
 ```
 Model: "sequential_1"
@@ -47,6 +47,7 @@ _________________________________________________________________
 * Created a Linear Regression Model (MAPE = 14%) and BMI Program as an alternative to the formula that is used today: BMI = kg/m2, where kg is a person's weight in kilograms and m2 is their height in metres squared;
 * Detected the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.5), Hierarchical (silhouette_score = 0.5) and DBSCAN (silhouette_score = 1.0);
 * Checked which algorithm had the best performance for classification of Body Mass Index (BMI): Logistic Regression Classifier (Accuracy = 70%), Decision Tree Classifier (Accuracy = 91%) and Random Forest Classifier (Accuracy = 93%);
+* Warning: the project is currently under review and can be accessed from the develop/ScaledData branch;
 
 ![](/images/heatmap_2.png)
 
