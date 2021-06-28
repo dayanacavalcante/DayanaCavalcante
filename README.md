@@ -1,13 +1,12 @@
 # Projects
 
 
-## [Project 1: Body Mass Index (BMI): Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
-* Created a Regression model (r2_score = 0.95) to check which variables based on food habits and physical condition most influence the prediction of BMI;
-* Detected the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.5), Hierarchical (silhouette_score = 0.5) and DBSCAN (silhouette_score = 1.0);
-* Checked which algorithm had the best performance for classification of BMI: Decision Tree (Accuracy = 93.2%), Random Forest (Accuracy = 93.1%), Logistic Regression (Accuracy = 84.8%), Support Vector Classifier (Accuracy = 83.1%), K-nearest neighbors (Accuracy = 77%), and Naive Bayes (Accuracy = 49.1%);
-* Warning: the project is currently under review and the code can be accessed from the develop/ScaledData branch;
+## [Project 1: Obesity Level Estimation Case Study: Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
+* Created a Regression model (r2_score = 0.95) to check which variables based on eating habits and physical condition most influence the prediction of obesity levels;
+* Detected a group of people with possible high health risk due to the highest level of obesity and low (or none) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.49), Hierarchical (silhouette_score = 0.47), and DBSCAN (silhouette_score = 1.0);
+* Checked which algorithm had the best performance for obesity levels classifier: Decision Tree (Accuracy = 93.2%), Random Forest (Accuracy = 93.1%), Logistic Regression (Accuracy = 84.8%), Support Vector Classifier (Accuracy = 83.1%), K-nearest neighbors (Accuracy = 77%), and Naive Bayes (Accuracy = 49.1%);
 
-![](/images/heatmap_2.png)
+![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/images/NObeyesdad.png)
 
 
 ## [Project 2: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
