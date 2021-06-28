@@ -6,7 +6,7 @@
 * Detected a group of people with possible high health risk due to the highest level of obesity and low (or none) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.49), Hierarchical (silhouette_score = 0.47), and DBSCAN (silhouette_score = 1.0);
 * Checked which algorithm had the best performance for obesity levels classifier: Decision Tree (Accuracy = 93.2%), Random Forest (Accuracy = 93.1%), Logistic Regression (Accuracy = 84.8%), Support Vector Classifier (Accuracy = 83.1%), K-nearest neighbors (Accuracy = 77%), and Naive Bayes (Accuracy = 49.1%);
 
-![](https://github.com/dayanacavalcante/DayanaCavalcante/blob/master/images/NObeyesdad.png)
+![](/images/NObeyesdad.png)
 
 
 ## [Project 2: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
