@@ -1,7 +1,16 @@
 # Projects
 
 
-## [Project 1: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
+## [Project 1: Body Mass Index (BMI): Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
+* Created a Regression model (r2_score = 0.95) to check which variables based on food habits and physical condition most influence the prediction of BMI;
+* Detected the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.5), Hierarchical (silhouette_score = 0.5) and DBSCAN (silhouette_score = 1.0);
+* Checked which algorithm had the best performance for classification of BMI: Decision Tree (Accuracy = 93.2%), Random Forest (Accuracy = 93.1%), Logistic Regression (Accuracy = 84.8%), Support Vector Classifier (Accuracy = 83.1%), K-nearest neighbors (Accuracy = 77%), and Naive Bayes (Accuracy = 49.1%);
+* Warning: the project is currently under review and the code can be accessed from the develop/ScaledData branch;
+
+![](/images/heatmap_2.png)
+
+
+## [Project 2: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
 * Created a CNN using Keras + Tensorflow to classify MRI;
 
 ```
@@ -36,20 +45,11 @@ _________________________________________________________________
 ```
 
 
-## [Project 2: Web API for Wine Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
+## [Project 3: Web API for Wine Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
 * Created Extra Trees Classifier Model (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
 * Created a Web API in Python using Flask;
 
 ![](/images/ConfusionMatrix.png)
-
-
-## [Project 3: Body Mass Index (BMI): Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
-* Created a Linear Regression Model (MAPE = 14%) and BMI Program as an alternative to the formula that is used today: BMI = kg/m2, where kg is a person's weight in kilograms and m2 is their height in metres squared;
-* Detected the groups of people at greatest health risk due to the level of obesity and the low (or zero) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.5), Hierarchical (silhouette_score = 0.5) and DBSCAN (silhouette_score = 1.0);
-* Checked which algorithm had the best performance for classification of Body Mass Index (BMI): Logistic Regression Classifier (Accuracy = 70%), Decision Tree Classifier (Accuracy = 91%) and Random Forest Classifier (Accuracy = 93%);
-* Warning: the project is currently under review and can be accessed from the develop/ScaledData branch;
-
-![](/images/heatmap_2.png)
 
 
 ## [Project 4: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
