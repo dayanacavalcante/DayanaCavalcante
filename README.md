@@ -1,12 +1,12 @@
 # Projects
 
 
-## [Project 1: Obesity Level Estimation Case Study: Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
+## [Project 1: Obesity Level Estimate Case Study: Application of predictive and descriptive methods](https://github.com/dayanacavalcante/Obesity-Estimate)
 * Created a Regression model (r2_score = 0.95) to check which variables based on eating habits and physical condition most influence the prediction of obesity levels;
 * Detected a group of people with possible high health risk due to the highest level of obesity and low (or none) frequency of physical activity with clustering algorithms: K-means (silhouette_score = 0.49), Hierarchical (silhouette_score = 0.47), and DBSCAN (silhouette_score = 1.0);
 * Checked which algorithm had the best performance for obesity levels classifier: Decision Tree (Accuracy = 93.2%), Random Forest (Accuracy = 93.1%), Logistic Regression (Accuracy = 84.8%), Support Vector Classifier (Accuracy = 83.1%), K-nearest neighbors (Accuracy = 77%), and Naive Bayes (Accuracy = 49.1%);
 
-![](/images/NObeyesdad.png)
+![](/images/heatmap.png)
 
 
 ## [Project 2: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
@@ -51,7 +51,13 @@ _________________________________________________________________
 ![](/images/ConfusionMatrix.png)
 
 
-## [Project 4: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
+## [Project 4: Unsupervised learning for Country Grouping](https://github.com/dayanacavalcante/UnsupervisedLearningForCountryGrouping)
+* Use of Data Science resources to choose countries that most need help from HELP Internacional;
+
+![](/images/scatterplot.png)
+
+
+## [Project 5: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
 * Created an anti-spam filter to classify emails in spam or non-spam with the Naive Bayes algorithm (Accuracy = 90%), using the NLTK library.
 
 ```
@@ -63,7 +69,7 @@ pipeline = Pipeline([
 ```
 
 
-## [Project 5: Covid-19 Rio de Janeiro, Brazil](https://github.com/dayanacavalcante/Covid-19-RJ-Brazil-ARIMA)
+## [Project 6: Covid-19 Rio de Janeiro, Brazil](https://github.com/dayanacavalcante/Covid-19-RJ-Brazil-ARIMA)
 * Applied stationary transformations and ARIMA model.
 
 ![](/images/TestStationarity_1.png)
