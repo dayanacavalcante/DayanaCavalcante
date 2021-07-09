@@ -52,7 +52,7 @@ _________________________________________________________________
 
 
 ## [Project 4: Unsupervised learning for Country Grouping](https://github.com/dayanacavalcante/UnsupervisedLearningForCountryGrouping)
-* Use of Data Science resources to choose countries that most need help from HELP Internacional;
+* Use of Data Science resources to choose countries that most need help from HELP Internacional, according to income and Per Capita GDP;
 
 ![](/images/scatterplot.png)
 
