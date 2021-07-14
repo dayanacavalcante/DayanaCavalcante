@@ -9,7 +9,13 @@
 ![](/images/heatmap.png)
 
 
-## [Project 2: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
+## [Project 2: Image Recognition using YOLOv4](https://github.com/dayanacavalcante/Image-Recognition-YOLOv4)
+* Used Darknet neural network architecture with pre-trained models;
+
+![](/images/ImageRecognition.jpg)
+
+
+## [Project 3: MRI Recognition with Keras and Tensorflow](https://github.com/dayanacavalcante/MRI-Recognition-with-Keras-and-Tensorflow)
 * Created a CNN using Keras + Tensorflow to classify MRI;
 
 ```
@@ -43,18 +49,11 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
-
-## [Project 3: Web API for Wine Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
+## [Project 4: Web API for Wine Classification](https://github.com/dayanacavalcante/ApiPython-WineClassify)
 * Created Extra Trees Classifier Model (Accuracy = 99%) to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier;
 * Created a Web API in Python using Flask;
 
 ![](/images/ConfusionMatrix.png)
-
-
-## [Project 4: Unsupervised learning for Country Grouping](https://github.com/dayanacavalcante/UnsupervisedLearningForCountryGrouping)
-* Use of Data Science resources to choose countries that most need help from HELP Internacional, according to income and Per Capita GDP;
-
-![](/images/scatterplot.png)
 
 
 ## [Project 5: Anti-Spam Filter](https://github.com/dayanacavalcante/Anti-Spam-Filter)
@@ -69,7 +68,7 @@ pipeline = Pipeline([
 ```
 
 
-## [Project 6: Covid-19 Rio de Janeiro, Brazil](https://github.com/dayanacavalcante/Covid-19-RJ-Brazil-ARIMA)
-* Applied stationary transformations and ARIMA model.
+## [Project 6: Unsupervised learning for Country Grouping](https://github.com/dayanacavalcante/UnsupervisedLearningForCountryGrouping)
+* Use of Data Science resources to choose countries that most need help from HELP Internacional, according to income and Per Capita GDP;
 
-![](/images/TestStationarity_1.png)
+![](/images/scatterplot.png)
