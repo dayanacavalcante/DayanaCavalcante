@@ -2,7 +2,7 @@
 
 I love working with methods and projects that develop analytical thinking through the power of Data and Machine Learning.
 
-Here are some open-source projects from when I started studying Data Science. Have any questions? Please don't hesitate to get in touch.
+Here are some open-source projects from when I started studying Data Science involving Classification, Regression, Clustering, Neural Networks and Image Recognition. Have any questions? Please don't hesitate to get in touch.
 
 * 🔥 Data Analytics and Data Science Consultant
 
