@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dayana Cavalcante</h1>
+### Hi, I'm Dayana Cavalcante
 
 I love working with methods and projects that develop analytical thinking through the power of Data and Machine Learning.
 
