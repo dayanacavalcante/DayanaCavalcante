@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Dayana Cavalcante</h2> 
+<h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">, I'm Dayana Cavalcante</h2> 
 
 I love working with methods and projects that develop analytical thinking through the power of Data and Machine Learning.
 
