@@ -4,9 +4,6 @@ I love working with methods and projects that develop analytical thinking throug
 
 Here are some open-source projects involving Classification, Regression, Clustering, Neural Networks, NLP, and Image Recognition. Any feedback and collaboration is really appreciated. Have any questions? Please don't hesitate to get in touch.
 
-* 🔥 Data Science
-
-* 🔭 I’m currently working at AssetFloow
 
 * 📫 How to reach me: **[![Gmail Badge](https://img.shields.io/badge/-d.liria@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.liria@gmail.com)](mailto:d.liria@gmail.com)** | **[![Linkedin Badge](https://img.shields.io/badge/-Dayana%20Cavalcante-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayanaccavalcante/)](https://www.linkedin.com/in/dayanaccavalcante/)**
 <br><br>
