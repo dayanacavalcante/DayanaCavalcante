@@ -2,7 +2,7 @@
 
 I love working with methods and projects that develop analytical thinking through the power of Data and Machine Learning.
 
-Here are some open-source projects involving Classification, Regression, Clustering, Neural Networks, NLP, and Image Recognition. Any feedback and collaboration is really appreciated. Have any questions? Please don't hesitate to get in touch.
+Here are some open-source projects involving LLM, NLP, Classification, Regression, Clustering, Neural Networks, and Image Recognition. Any feedback and collaboration is really appreciated. Have any questions? Please don't hesitate to get in touch.
 
 
 
@@ -30,3 +30,5 @@ Here are some open-source projects involving Classification, Regression, Cluster
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter&logoColor=orange)
 ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![LangChain](https://img.shields.io/badge/LangChain-05122A?style=flat&logo=LangChain&logoColor=white&color=black&labelColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-05122A?style=flat&logo=OpenAI&logoColor=white&color=black&labelColor=blue)
